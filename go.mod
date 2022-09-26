@@ -1,4 +1,4 @@
-module gopl.io
+module gitgub.com/greysd/gopl.io
 
 go 1.16
 
